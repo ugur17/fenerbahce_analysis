@@ -1,0 +1,37 @@
+fixture_id,season,round,match_date,status,venue_name,venue_city,home_team_id,home_team,away_team_id,away_team,home_goals,away_goals,ht_home_goals,ht_away_goals,is_home,opponent,fenerbahce_goals,opponent_goals,result,points
+884347,2022,Regular Season - 1,2022-08-08T18:45:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,3577,Ümraniyespor,3,3,2,1,True,Ümraniyespor,3,3,D,1
+884355,2022,Regular Season - 2,2022-08-15T18:45:00+00:00,FT,Recep Tayyip Erdoğan Stadyumu,İstanbul,1004,Kasımpaşa,611,Fenerbahçe,0,6,0,3,False,Kasımpaşa,6,0,W,3
+884364,2022,Regular Season - 3,2022-08-22T18:45:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,3563,Adana Demirspor,4,2,2,0,True,Adana Demirspor,4,2,W,3
+884374,2022,Regular Season - 4,2022-08-29T16:15:00+00:00,FT,Yeni Eskişehir Stadyumu,Eskişehir,607,Konyaspor,611,Fenerbahçe,1,0,0,0,False,Konyaspor,0,1,L,0
+884382,2022,Regular Season - 5,2022-09-03T18:45:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,1001,Kayserispor,2,0,1,0,True,Kayserispor,2,0,W,3
+884401,2022,Regular Season - 7,2022-09-18T17:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,996,Alanyaspor,5,0,3,0,True,Alanyaspor,5,0,W,3
+884405,2022,Regular Season - 8,2022-10-02T17:00:00+00:00,FT,Vodafone Park,İstanbul,549,Beşiktaş,611,Fenerbahçe,0,0,0,0,False,Beşiktaş,0,0,D,1
+884418,2022,Regular Season - 9,2022-10-09T17:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,3589,Fatih Karagümrük,5,4,2,2,True,Fatih Karagümrük,5,4,W,3
+884425,2022,Regular Season - 10,2022-10-17T17:00:00+00:00,FT,Eryaman Stadyumu,Ankara,1010,Ankaragücü,611,Fenerbahçe,0,3,0,2,False,Ankaragücü,3,0,W,3
+884436,2022,Regular Season - 11,2022-10-22T17:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,564,Başakşehir,1,0,0,0,True,Başakşehir,1,0,W,3
+884445,2022,Regular Season - 12,2022-10-30T17:00:00+00:00,FT,Atatürk Olimpiyat Stadı,İstanbul,3578,İstanbulspor,611,Fenerbahçe,2,5,0,2,False,İstanbulspor,5,2,W,3
+884454,2022,Regular Season - 13,2022-11-07T17:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,1002,Sivasspor,1,0,0,0,True,Sivasspor,1,0,W,3
+884464,2022,Regular Season - 14,2022-11-12T14:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,3574,Giresunspor,1,2,1,0,True,Giresunspor,1,2,L,0
+884469,2022,Regular Season - 15,2022-12-24T16:00:00+00:00,FT,Şenol Güneş Spor Kompleksi,Trabzon,998,Trabzonspor,611,Fenerbahçe,2,0,0,0,False,Trabzonspor,0,2,L,0
+884482,2022,Regular Season - 16,2022-12-27T17:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,3575,Hatayspor,4,0,2,0,True,Hatayspor,4,0,W,3
+884484,2022,Regular Season - 17,2023-01-03T17:00:00+00:00,FT,Corendon Airlines Park,Antalya,1005,Antalyaspor,611,Fenerbahçe,1,2,1,0,False,Antalyaspor,2,1,W,3
+884499,2022,Regular Season - 18,2023-01-08T16:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,645,Galatasaray,0,3,0,1,True,Galatasaray,0,3,L,0
+884506,2022,Regular Season - 19,2023-01-15T16:00:00+00:00,FT,Gaziantep Stadyumu,Gaziantep,3573,Gaziantep FK,611,Fenerbahçe,1,2,0,1,False,Gaziantep FK,2,1,W,3
+884518,2022,Regular Season - 20,2023-01-23T17:00:00+00:00,FT,Ümraniye Hekimbaşı Şehir Stadyumu,İstanbul,3577,Ümraniyespor,611,Fenerbahçe,1,2,0,0,False,Ümraniyespor,2,1,W,3
+884526,2022,Regular Season - 21,2023-01-29T16:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,1004,Kasımpaşa,5,1,2,1,True,Kasımpaşa,5,1,W,3
+884535,2022,Regular Season - 22,2023-02-02T17:00:00+00:00,FT,Yeni Adana Stadyumu,Adana,3563,Adana Demirspor,611,Fenerbahçe,1,1,0,0,False,Adana Demirspor,1,1,D,1
+884545,2022,Regular Season - 23,2023-02-25T16:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,607,Konyaspor,4,0,2,0,True,Konyaspor,4,0,W,3
+884553,2022,Regular Season - 24,2023-03-04T16:00:00+00:00,FT,RHG Enertürk Enerji Stadyumu,Kayseri,1001,Kayserispor,611,Fenerbahçe,1,2,0,1,False,Kayserispor,2,1,W,3
+884572,2022,Regular Season - 26,2023-03-19T16:00:00+00:00,FT,Kırbıyık Holding Stadyumu,Alanya,996,Alanyaspor,611,Fenerbahçe,1,3,1,0,False,Alanyaspor,3,1,W,3
+884576,2022,Regular Season - 27,2023-04-02T17:30:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,549,Beşiktaş,2,4,1,0,True,Beşiktaş,2,4,L,0
+884589,2022,Regular Season - 28,2023-04-10T17:30:00+00:00,FT,Atatürk Olimpiyat Stadı,İstanbul,3589,Fatih Karagümrük,611,Fenerbahçe,1,2,1,0,False,Fatih Karagümrük,2,1,W,3
+884596,2022,Regular Season - 29,2023-04-15T17:30:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,1010,Ankaragücü,2,1,0,0,True,Ankaragücü,2,1,W,3
+884607,2022,Regular Season - 30,2023-04-19T17:30:00+00:00,FT,Başakşehir Fatih Terim Stadyumu,İstanbul,564,Başakşehir,611,Fenerbahçe,1,2,1,0,False,Başakşehir,2,1,W,3
+884616,2022,Regular Season - 31,2023-04-24T17:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,3578,İstanbulspor,3,3,1,0,True,İstanbulspor,3,3,D,1
+884625,2022,Regular Season - 32,2023-04-29T16:00:00+00:00,FT,Yeni Sivas 4 Eylül Stadyumu,Sivas,1002,Sivasspor,611,Fenerbahçe,1,3,0,3,False,Sivasspor,3,1,W,3
+884635,2022,Regular Season - 33,2023-05-07T16:00:00+00:00,FT,Çotanak Stadyumu,Giresun,3574,Giresunspor,611,Fenerbahçe,1,1,0,1,False,Giresunspor,1,1,D,1
+884640,2022,Regular Season - 34,2023-05-18T17:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,998,Trabzonspor,3,1,1,0,True,Trabzonspor,3,1,W,3
+884653,2022,Regular Season - 35,2023-05-21T00:00:00+00:00,FT,Yeni Hatay Stadyumu,Hatay,3575,Hatayspor,611,Fenerbahçe,0,3,,,False,Hatayspor,3,0,W,3
+884655,2022,Regular Season - 36,2023-05-30T17:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,1005,Antalyaspor,2,0,1,0,True,Antalyaspor,2,0,W,3
+884670,2022,Regular Season - 37,2023-06-04T16:00:00+00:00,FT,NEF Stadyumu,İstanbul,645,Galatasaray,611,Fenerbahçe,3,0,1,0,False,Galatasaray,0,3,L,0
+884677,2022,Regular Season - 38,2023-06-07T00:00:00+00:00,FT,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,İstanbul,611,Fenerbahçe,3573,Gaziantep FK,3,0,,,True,Gaziantep FK,3,0,W,3
