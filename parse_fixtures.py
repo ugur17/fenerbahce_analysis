@@ -1,3 +1,8 @@
+# This script processes raw fixture data for Fenerbahçe from JSON files and converts it into structured CSV files.
+# It reads the raw JSON files for each season, extracts relevant information about each fixture, and saves the data into CSV format for easier analysis and database insertion.
+# The script also handles cases where the JSON files may contain errors or be empty, ensuring that only valid data is processed.
+# Author: Ceyhun Ugur
+
 import csv
 import json
 from pathlib import Path

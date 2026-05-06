@@ -1,3 +1,8 @@
+# This script retrieves fixture data for Fenerbahçe from the API-Football for specified seasons and saves the raw JSON responses to files.
+# It uses the requests library to make API calls and the json library to handle JSON data.
+# The script also includes a delay between API calls to respect rate limits.
+# Author: Ceyhun Ugur
+
 import json
 import time
 from pathlib import Path
@@ -14,7 +19,7 @@ HEADERS = {
 
 TEAM_ID = 611
 LEAGUE_ID = 203
-SEASONS = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+SEASONS = [2022, 2023, 2024]
 
 Path("data/raw").mkdir(parents=True, exist_ok=True)
 
