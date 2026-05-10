@@ -1,0 +1,234 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074837"
+  },
+  "errors": [],
+  "results": 10,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "assist": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": 18881,
+        "name": "J. King"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "assist": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 1005,
+        "name": "Antalyaspor",
+        "logo": "https://media.api-sports.io/football/teams/1005.png"
+      },
+      "player": {
+        "id": 31241,
+        "name": "D. Šarić"
+      },
+      "assist": {
+        "id": 1964,
+        "name": "E. Rakip"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 1005,
+        "name": "Antalyaspor",
+        "logo": "https://media.api-sports.io/football/teams/1005.png"
+      },
+      "player": {
+        "id": 111274,
+        "name": "R. Safouri"
+      },
+      "assist": {
+        "id": 19249,
+        "name": "B. Assombalonga"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 1005,
+        "name": "Antalyaspor",
+        "logo": "https://media.api-sports.io/football/teams/1005.png"
+      },
+      "player": {
+        "id": 39137,
+        "name": "Z. Bytyqi"
+      },
+      "assist": {
+        "id": 37182,
+        "name": "S. van de Streek"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "assist": {
+        "id": 853,
+        "name": "L. Bonucci"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 1005,
+        "name": "Antalyaspor",
+        "logo": "https://media.api-sports.io/football/teams/1005.png"
+      },
+      "player": {
+        "id": 197784,
+        "name": "Jakub Kałuziński"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "assist": {
+        "id": 853,
+        "name": "L. Bonucci"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "884553"
+  },
+  "errors": [],
+  "results": 14,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 6,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "assist": {
+        "id": 10497,
+        "name": "Lincoln"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 22245,
+        "name": "L. Carole"
+      },
+      "assist": {
+        "id": 143825,
+        "name": "A. Uzodimma"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 41973,
+        "name": "Miguel Crespo"
+      },
+      "assist": {
+        "id": 1369,
+        "name": "M. Zajc"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 28443,
+        "name": "Attila Szalai"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 291964,
+        "name": "A. Güler"
+      },
+      "assist": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 10203,
+        "name": "Gustavo Campanharo"
+      },
+      "assist": {
+        "id": 50204,
+        "name": "E. Başsan"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 24860,
+        "name": "Carlos Mané"
+      },
+      "assist": {
+        "id": 1326,
+        "name": "M. Gavranović"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1361,
+        "name": "F. Kadıoğlu"
+      },
+      "assist": {
+        "id": 1369,
+        "name": "M. Zajc"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 18881,
+        "name": "J. King"
+      },
+      "assist": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 85205,
+        "name": "O. Kemen"
+      },
+      "assist": {
+        "id": 50161,
+        "name": "İ. Parlak"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 50464,
+        "name": "M. Thiam"
+      },
+      "assist": {
+        "id": 62419,
+        "name": "R. Civelek"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 51045,
+        "name": "D. Rossi"
+      },
+      "assist": {
+        "id": 1341,
+        "name": "S. Aziz"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 6
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 313071,
+        "name": "A. Kocaman"
+      },
+      "assist": {
+        "id": 50204,
+        "name": "E. Başsan"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

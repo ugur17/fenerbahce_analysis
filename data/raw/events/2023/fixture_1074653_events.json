@@ -1,0 +1,388 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074653"
+  },
+  "errors": [],
+  "results": 17,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 21,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "Edin Džeko"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 34,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İrfan Can Kahveci"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 40,
+        "extra": null
+      },
+      "team": {
+        "id": 996,
+        "name": "Alanyaspor",
+        "logo": "https://media.api-sports.io/football/teams/996.png"
+      },
+      "player": {
+        "id": 10240,
+        "name": "Richard Cândido"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 43,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1361,
+        "name": "Ferdi Kadıoğlu"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 996,
+        "name": "Alanyaspor",
+        "logo": "https://media.api-sports.io/football/teams/996.png"
+      },
+      "player": {
+        "id": 9935,
+        "name": "Carlos Eduardo"
+      },
+      "assist": {
+        "id": 134590,
+        "name": "O. Aydın"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 996,
+        "name": "Alanyaspor",
+        "logo": "https://media.api-sports.io/football/teams/996.png"
+      },
+      "player": {
+        "id": 41101,
+        "name": "João Novais"
+      },
+      "assist": {
+        "id": 19042,
+        "name": "F. Hadergjonaj"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "Dušan Tadić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Time wasting"
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": 1756,
+        "name": "R. Kent"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "assist": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 272721,
+        "name": "J. Oosterwolde"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 996,
+        "name": "Alanyaspor",
+        "logo": "https://media.api-sports.io/football/teams/996.png"
+      },
+      "player": {
+        "id": 289306,
+        "name": "Loide Augusto"
+      },
+      "assist": {
+        "id": 41560,
+        "name": "Anderson Silva"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 2927,
+        "name": "Michy Batshuayi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Time wasting"
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 21633,
+        "name": "Alexander Djiku"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "assist": {
+        "id": 62490,
+        "name": "S. Akaydin"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 8
+      },
+      "team": {
+        "id": 996,
+        "name": "Alanyaspor",
+        "logo": "https://media.api-sports.io/football/teams/996.png"
+      },
+      "player": {
+        "id": 41560,
+        "name": "Anderson Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ]
+}

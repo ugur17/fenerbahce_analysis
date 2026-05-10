@@ -1,0 +1,410 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074950"
+  },
+  "errors": [],
+  "results": 18,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 10,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 1998,
+        "name": "Kartal Kayra Yılmaz"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 18,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "assist": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 28,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 50272,
+        "name": "Otabek Shukurov"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 43,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 21633,
+        "name": "A. Djiku"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 3
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 829,
+        "name": "Rodrigo Becão"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 50272,
+        "name": "O. Shukurov"
+      },
+      "assist": {
+        "id": 45020,
+        "name": "D. Nazon"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 51,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 62158,
+        "name": "Gökhan Sazdağı"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 18776,
+        "name": "Ç. Söyüncü"
+      },
+      "assist": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 24860,
+        "name": "Carlos Mané"
+      },
+      "assist": {
+        "id": 62419,
+        "name": "R. Civelek"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 272721,
+        "name": "J. Oosterwolde"
+      },
+      "assist": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": 18881,
+        "name": "J. King"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 313071,
+        "name": "A. Kocaman"
+      },
+      "assist": {
+        "id": 49838,
+        "name": "J. Attamah"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 18776,
+        "name": "Ç. Söyüncü"
+      },
+      "assist": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 2711,
+        "name": "M. Bourabia"
+      },
+      "assist": {
+        "id": 64261,
+        "name": "Y. Ackah"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 62158,
+        "name": "G. Sazdağı"
+      },
+      "assist": {
+        "id": 182275,
+        "name": "E. Özbek"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "assist": {
+        "id": 853,
+        "name": "L. Bonucci"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 1001,
+        "name": "Kayserispor",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+      },
+      "player": {
+        "id": 41370,
+        "name": "Aylton Boa Morte"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1237926"
+  },
+  "errors": [],
+  "results": 25,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 9,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1821,
+        "name": "Filip Kostić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 14,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 1130,
+        "name": "Olivier Ntcham"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 14,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 55949,
+        "name": "Ľubomír Šatka"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 40,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 137403,
+        "name": "A. Muja"
+      },
+      "assist": {
+        "id": 24970,
+        "name": "K. Schindler"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 48,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 15837,
+        "name": "C. Holse"
+      },
+      "assist": {
+        "id": 50091,
+        "name": "E. Kılınç"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 52,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 829,
+        "name": "Rodrigo Becão"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 50091,
+        "name": "Emre Kılınç"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 20044,
+        "name": "Marc Bola"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "assist": {
+        "id": 22173,
+        "name": "A. Saint-Maximin"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1821,
+        "name": "F. Kostić"
+      },
+      "assist": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 829,
+        "name": "Rodrigo Becão"
+      },
+      "assist": {
+        "id": 18776,
+        "name": "Ç. Söyüncü"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 22173,
+        "name": "A. Saint-Maximin"
+      },
+      "assist": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 2139,
+        "name": "Z. Yavru"
+      },
+      "assist": {
+        "id": 85369,
+        "name": "G. Laura"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 50091,
+        "name": "E. Kılınç"
+      },
+      "assist": {
+        "id": 1434,
+        "name": "L. Dimata"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 2709,
+        "name": "Youssef Aït Bennasser"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 272721,
+        "name": "J. Oosterwolde"
+      },
+      "assist": {
+        "id": 62490,
+        "name": "S. Akaydin"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 20044,
+        "name": "M. Bola"
+      },
+      "assist": {
+        "id": 49848,
+        "name": "S. Aydoğdu"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 15837,
+        "name": "C. Holse"
+      },
+      "assist": {
+        "id": 62681,
+        "name": "S. Gönül"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 49848,
+        "name": "S. Aydoğdu"
+      },
+      "assist": {
+        "id": 85369,
+        "name": "G. Laura"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İrfan Can Kahveci"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 3603,
+        "name": "Samsunspor",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+      },
+      "player": {
+        "id": 394,
+        "name": "Marius Mouandilmadji"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 21633,
+        "name": "Alexander Djiku"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    }
+  ]
+}

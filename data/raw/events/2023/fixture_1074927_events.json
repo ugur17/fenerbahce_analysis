@@ -1,0 +1,454 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074927"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": -5,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 50200,
+        "name": "İbrahim Akdağ"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 35,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 214463,
+        "name": "İsmail Yüksek"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 2
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "assist": {
+        "id": 1361,
+        "name": "F. Kadıoğlu"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 50074,
+        "name": "F. Koita"
+      },
+      "assist": {
+        "id": 61870,
+        "name": "M. Paluli"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 50082,
+        "name": "Uğur Çiftçi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "assist": {
+        "id": 1719,
+        "name": "M. Müldür"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "assist": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 50200,
+        "name": "İ. Akdağ"
+      },
+      "assist": {
+        "id": 14338,
+        "name": "M. Caktaš"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 87818,
+        "name": "Q. Menig"
+      },
+      "assist": {
+        "id": 1919,
+        "name": "C. N'Jie"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 61870,
+        "name": "M. Paluli"
+      },
+      "assist": {
+        "id": 62033,
+        "name": "A. Okumuş"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 50074,
+        "name": "Bengali-Fodé Koita"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 162004,
+        "name": "B. Elmaz"
+      },
+      "assist": {
+        "id": 66175,
+        "name": "R. Květ"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 50074,
+        "name": "F. Koita"
+      },
+      "assist": {
+        "id": 50204,
+        "name": "E. Başsan"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 46725,
+        "name": "Rey Manaj"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 46725,
+        "name": "Rey Manaj"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 12
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 18881,
+        "name": "J. King"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 46725,
+        "name": "R. Manaj"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1238174"
+  },
+  "errors": [],
+  "results": 21,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 27,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 38,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1719,
+        "name": "Mert Müldür"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Professional foul last man"
+    },
+    {
+      "time": {
+        "elapsed": 44,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 210244,
+        "name": "E. Çetin"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 21589,
+        "name": "B. Boutobba"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+      },
+      "assist": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 134590,
+        "name": "O. Aydın"
+      },
+      "assist": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 25076,
+        "name": "G. Sağlam"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 62195,
+        "name": "C. Sertel"
+      },
+      "assist": {
+        "id": 264118,
+        "name": "Joelson Fernandes"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 358558,
+        "name": "J. Okoronkwo"
+      },
+      "assist": {
+        "id": 25076,
+        "name": "G. Sağlam"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 49870,
+        "name": "Kamil Ahmet Çörekçi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 74,
+        "name": "Sofyan Amrabat"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 74,
+        "name": "S. Amrabat"
+      },
+      "assist": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 49870,
+        "name": "K. Çörekçi"
+      },
+      "assist": {
+        "id": 61927,
+        "name": "K. Alıcı"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 291531,
+        "name": "C. Massanga"
+      },
+      "assist": {
+        "id": 119029,
+        "name": "L. Diack"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 18768,
+        "name": "C. Tosun"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İrfan Can Kahveci"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 214463,
+        "name": "İsmail Yüksek"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 21589,
+        "name": "B. Boutobba"
+      },
+      "assist": {
+        "id": 406159,
+        "name": "A. Yıldız"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+      },
+      "player": {
+        "id": 49885,
+        "name": "A. Parmak"
+      },
+      "assist": {
+        "id": 28630,
+        "name": "F. Bamgboye"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 12724,
+        "name": "Talisca"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

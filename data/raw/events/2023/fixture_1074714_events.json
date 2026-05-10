@@ -1,0 +1,322 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074714"
+  },
+  "errors": [],
+  "results": 14,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 23,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 41973,
+        "name": "Miguel Crespo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "Bright Osayi-Samuel"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 31483,
+        "name": "A. Gravillon"
+      },
+      "assist": {
+        "id": 407,
+        "name": "B. Stambouli"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 2216,
+        "name": "M. Niang"
+      },
+      "assist": {
+        "id": 1917,
+        "name": "M. Balotelli"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 445,
+        "name": "Younès Belhanda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 272721,
+        "name": "Jayden Oosterwolde"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "assist": {
+        "id": 1719,
+        "name": "M. Müldür"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 50234,
+        "name": "Y. Erdoğan"
+      },
+      "assist": {
+        "id": 50940,
+        "name": "Nani"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1369,
+        "name": "M. Zajc"
+      },
+      "assist": {
+        "id": 162004,
+        "name": "B. Elmaz"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 47304,
+        "name": "Kévin Rodrigues"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 1917,
+        "name": "Mario Balotelli"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": 1756,
+        "name": "R. Kent"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1237943"
+  },
+  "errors": [],
+  "results": 25,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": -5,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 21447,
+        "name": "Umut Bozok"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 30,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 49942,
+        "name": "Ozan Tufan"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "assist": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 3
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 67,
+        "name": "Stefano Denswil"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 47443,
+        "name": "Okay Yokuşlu"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "Bright Osayi-Samuel"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 21633,
+        "name": "A. Djiku"
+      },
+      "assist": {
+        "id": 829,
+        "name": "Rodrigo Becão"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 20674,
+        "name": "S. Banza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 50057,
+        "name": "Eren Elmalı"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 20674,
+        "name": "Simon Banza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "assist": {
+        "id": 1821,
+        "name": "F. Kostić"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "assist": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 22173,
+        "name": "A. Saint-Maximin"
+      },
+      "assist": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 20674,
+        "name": "S. Banza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 49866,
+        "name": "Uğurcan Çakır"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "assist": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 49942,
+        "name": "O. Tufan"
+      },
+      "assist": {
+        "id": 319514,
+        "name": "C. Çanak"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 50057,
+        "name": "E. Elmalı"
+      },
+      "assist": {
+        "id": 1738,
+        "name": "B. Barišić"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 49891,
+        "name": "A. Nwakaeme"
+      },
+      "assist": {
+        "id": 182422,
+        "name": "E. Destan"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 15
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 20674,
+        "name": "Simon Banza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 10
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 182422,
+        "name": "Enis Destan"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Time wasting"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 74,
+        "name": "Sofyan Amrabat"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 11
+      },
+      "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+      },
+      "player": {
+        "id": 49860,
+        "name": "E. Višća"
+      },
+      "assist": {
+        "id": 146008,
+        "name": "M. Cham"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 12
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 74,
+        "name": "2                         S. Amrabat"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074917"
+  },
+  "errors": [],
+  "results": 24,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 11,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 21096,
+        "name": "Valentin Eysseric"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 26,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1341,
+        "name": "Serdar Aziz"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 1
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 128955,
+        "name": "C. Keles"
+      },
+      "assist": {
+        "id": 50270,
+        "name": "Ryan Mendes"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 31054,
+        "name": "R. Krunić"
+      },
+      "assist": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 49,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 30397,
+        "name": "Federico Ceccherini"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "Bright Osayi-Samuel"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "Bright Osayi-Samuel"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 1636,
+        "name": "A. Bertolacci"
+      },
+      "assist": {
+        "id": 13089,
+        "name": "Marcão"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 2005,
+        "name": "G. Yalçın"
+      },
+      "assist": {
+        "id": 126849,
+        "name": "A. Uğur"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1341,
+        "name": "S. Aziz"
+      },
+      "assist": {
+        "id": 829,
+        "name": "Rodrigo Becão"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 13089,
+        "name": "Marcão"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 50270,
+        "name": "Ryan Mendes"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 128955,
+        "name": "C. Keles"
+      },
+      "assist": {
+        "id": 30815,
+        "name": "K. Lasagna"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 30772,
+        "name": "K. Günter"
+      },
+      "assist": {
+        "id": 49964,
+        "name": "N. Sangaré"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İrfan Can Kahveci"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty cancelled",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 30769,
+        "name": "Davide Biraschi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 7
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 21096,
+        "name": "Valentin Eysseric"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Simulation"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 7
+      },
+      "team": {
+        "id": 3589,
+        "name": "Fatih Karagümrük",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+      },
+      "player": {
+        "id": 21096,
+        "name": "Valentin Eysseric"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Simulation"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1369,
+        "name": "Miha Zajc"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "assist": {
+        "id": 1369,
+        "name": "M. Zajc"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 1719,
+        "name": "M. Müldür"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 6
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ]
+}

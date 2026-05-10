@@ -1,0 +1,476 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074817"
+  },
+  "errors": [],
+  "results": 21,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 12,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 214463,
+        "name": "İsmail Yüksek"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 20,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 272721,
+        "name": "Jayden Oosterwolde"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 25,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 20968,
+        "name": "Ousseynou Ba"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 50018,
+        "name": "Ö. Şahiner"
+      },
+      "assist": {
+        "id": 336573,
+        "name": "E. İlkhan"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 2
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 69942,
+        "name": "João Figueiredo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 69942,
+        "name": "João Figueiredo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 2
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 69942,
+        "name": "João Figueiredo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "assist": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 1651,
+        "name": "K. Piątek"
+      },
+      "assist": {
+        "id": 21270,
+        "name": "P. Keny"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 650,
+        "name": "Léo Dubois"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 62114,
+        "name": "Onur Ergün"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 2927,
+        "name": "Michy Batshuayi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 21082,
+        "name": "Lucas Lima"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Time wasting"
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 21270,
+        "name": "Philippe Keny"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 50126,
+        "name": "Deniz Türüç"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 21270,
+        "name": "Philippe Keny"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 21270,
+        "name": "Philippe Keny"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 6
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47446,
+        "name": "Emre Mor"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    }
+  ]
+}

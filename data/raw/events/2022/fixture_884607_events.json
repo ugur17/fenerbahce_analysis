@@ -1,0 +1,498 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "884607"
+  },
+  "errors": [],
+  "results": 22,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 30,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 49919,
+        "name": "D. Aleksić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 1
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 40540,
+        "name": "Patryk Szysz"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 51045,
+        "name": "D. Rossi"
+      },
+      "assist": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 272721,
+        "name": "J. Oosterwolde"
+      },
+      "assist": {
+        "id": 19133,
+        "name": "E. Alioski"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 291964,
+        "name": "A. Güler"
+      },
+      "assist": {
+        "id": 30562,
+        "name": "João Pedro"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 50018,
+        "name": "Ömer Ali Şahiner"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 1637,
+        "name": "Lucas Biglia"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 41973,
+        "name": "Miguel Crespo"
+      },
+      "assist": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 8777,
+        "name": "Ahmed Touba"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 8777,
+        "name": "Ahmed Touba"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 8777,
+        "name": "Ahmed Touba"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 49919,
+        "name": "Danijel Aleksić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 69942,
+        "name": "João Figueiredo"
+      },
+      "assist": {
+        "id": 2924,
+        "name": "A. Januzaj"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 49858,
+        "name": "Mahmut Tekdemir"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 10173,
+        "name": "Willian Arão"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 50218,
+        "name": "Muhammed Şengezer"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Time wasting"
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 50126,
+        "name": "D. Türüç"
+      },
+      "assist": {
+        "id": 24885,
+        "name": "B. Özcan"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 49919,
+        "name": "D. Aleksić"
+      },
+      "assist": {
+        "id": 21270,
+        "name": "P. Keny"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 30562,
+        "name": "João Pedro"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 7
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 50018,
+        "name": "Ömer Ali Şahiner"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 7
+      },
+      "team": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+      },
+      "player": {
+        "id": 50018,
+        "name": "Ömer Ali Şahiner"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 30562,
+        "name": "João Pedro"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

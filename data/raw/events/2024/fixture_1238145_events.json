@@ -1,0 +1,498 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1238145"
+  },
+  "errors": [],
+  "results": 22,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 4,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 214463,
+        "name": "İsmail Yüksek"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Persistent fouling"
+    },
+    {
+      "time": {
+        "elapsed": 10,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 3429,
+        "name": "Emmanuel Boateng"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Simulation"
+    },
+    {
+      "time": {
+        "elapsed": 13,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 25921,
+        "name": "A. Maxim"
+      },
+      "assist": {
+        "id": 3429,
+        "name": "E. Boateng"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 15,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1821,
+        "name": "Filip Kostić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 20,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 314849,
+        "name": "Anel Husić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 40,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 25921,
+        "name": "Alexandru Maxim"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "assist": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47422,
+        "name": "Youssef En-Nesyri"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 314849,
+        "name": "A. Husic"
+      },
+      "assist": {
+        "id": 63284,
+        "name": "A. Kızıldağ"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 41100,
+        "name": "Bruno Viana"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47422,
+        "name": "Youssef En-Nesyri"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1821,
+        "name": "F. Kostić"
+      },
+      "assist": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 12724,
+        "name": "Talisca"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 41100,
+        "name": "Bruno Viana"
+      },
+      "assist": {
+        "id": 442,
+        "name": "E. Taşdemir"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 37440,
+        "name": "H. Dervişoğlu"
+      },
+      "assist": {
+        "id": 47292,
+        "name": "K. Kodro"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 143295,
+        "name": "O. Özçiçek"
+      },
+      "assist": {
+        "id": 23121,
+        "name": "Q. Daubin"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 127609,
+        "name": "L. Mercan"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "player": {
+        "id": 451,
+        "name": "B. Ndiaye"
+      },
+      "assist": {
+        "id": 50239,
+        "name": "F. Soyalp"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 12724,
+        "name": "Talisca"
+      },
+      "assist": {
+        "id": 18768,
+        "name": "C. Tosun"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ]
+}

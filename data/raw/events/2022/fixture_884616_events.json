@@ -1,0 +1,542 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "884616"
+  },
+  "errors": [],
+  "results": 24,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 25,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 291964,
+        "name": "A. Güler"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 44,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47446,
+        "name": "Emre Mor"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 44,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 119174,
+        "name": "Okan Erdoğan"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 2
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 62490,
+        "name": "Samet Akaydin"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 51,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 291964,
+        "name": "A. Güler"
+      },
+      "assist": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 7593,
+        "name": "Emeka Eze"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1361,
+        "name": "Ferdi Kadıoğlu"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Handball"
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 3499,
+        "name": "Valon Ethemi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 3499,
+        "name": "V. Ethemi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 286543,
+        "name": "K. Şen"
+      },
+      "assist": {
+        "id": 108630,
+        "name": "J. Topalli"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 3499,
+        "name": "V. Ethemi"
+      },
+      "assist": {
+        "id": 3505,
+        "name": "E. Rroca"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 30562,
+        "name": "João Pedro"
+      },
+      "assist": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 101312,
+        "name": "M. Yeşil"
+      },
+      "assist": {
+        "id": 50220,
+        "name": "E. Ersoy"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 62107,
+        "name": "D. Aksu"
+      },
+      "assist": {
+        "id": 61932,
+        "name": "A. Yaşar"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "assist": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 62490,
+        "name": "S. Akaydin"
+      },
+      "assist": {
+        "id": 1341,
+        "name": "S. Aziz"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 37073,
+        "name": "F. Loshaj"
+      },
+      "assist": {
+        "id": 62641,
+        "name": "E. Gültekin"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 3499,
+        "name": "V. Ethemi"
+      },
+      "assist": {
+        "id": 20637,
+        "name": "J. Lokilo"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "assist": {
+        "id": 10173,
+        "name": "Willian Arão"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "assist": {
+        "id": 41973,
+        "name": "Miguel Crespo"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 50220,
+        "name": "Ertuğrul Ersoy"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 62696,
+        "name": "Muammer Sarıkaya"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 291964,
+        "name": "A. Güler"
+      },
+      "assist": {
+        "id": 51045,
+        "name": "D. Rossi"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 6
+      },
+      "team": {
+        "id": 3578,
+        "name": "İstanbulspor",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+      },
+      "player": {
+        "id": 7593,
+        "name": "E. Eze"
+      },
+      "assist": {
+        "id": 62641,
+        "name": "E. Gültekin"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

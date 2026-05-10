@@ -1,0 +1,278 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074828"
+  },
+  "errors": [],
+  "results": 12,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 13,
+        "extra": null
+      },
+      "team": {
+        "id": 1010,
+        "name": "Ankaragucu",
+        "logo": "https://media.api-sports.io/football/teams/1010.png"
+      },
+      "player": {
+        "id": 1355,
+        "name": "T. Ciğerci"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 20,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "assist": {
+        "id": 1719,
+        "name": "M. Müldür"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 32,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 1010,
+        "name": "Ankaragucu",
+        "logo": "https://media.api-sports.io/football/teams/1010.png"
+      },
+      "player": {
+        "id": 43024,
+        "name": "O. Moruțan"
+      },
+      "assist": {
+        "id": 26748,
+        "name": "T. Chatzigiovanis"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 1010,
+        "name": "Ankaragucu",
+        "logo": "https://media.api-sports.io/football/teams/1010.png"
+      },
+      "player": {
+        "id": 11012,
+        "name": "A. Sowe"
+      },
+      "assist": {
+        "id": 9084,
+        "name": "R. Bajić"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 1010,
+        "name": "Ankaragucu",
+        "logo": "https://media.api-sports.io/football/teams/1010.png"
+      },
+      "player": {
+        "id": 66011,
+        "name": "M. Hanousek"
+      },
+      "assist": {
+        "id": 61808,
+        "name": "M. Çetin"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "assist": {
+        "id": 41973,
+        "name": "Miguel Crespo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 785,
+        "name": "C. Ünder"
+      },
+      "assist": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 1010,
+        "name": "Ankaragucu",
+        "logo": "https://media.api-sports.io/football/teams/1010.png"
+      },
+      "player": {
+        "id": 32451,
+        "name": "R. Cephas"
+      },
+      "assist": {
+        "id": 61908,
+        "name": "A. Çankaya"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 1010,
+        "name": "Ankaragucu",
+        "logo": "https://media.api-sports.io/football/teams/1010.png"
+      },
+      "player": {
+        "id": 2145,
+        "name": "A. Güneren"
+      },
+      "assist": {
+        "id": 26759,
+        "name": "F. Macheda"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "assist": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    }
+  ]
+}

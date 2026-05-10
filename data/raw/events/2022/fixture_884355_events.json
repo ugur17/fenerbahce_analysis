@@ -1,0 +1,498 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "884355"
+  },
+  "errors": [],
+  "results": 22,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 8,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 18881,
+        "name": "J. King"
+      },
+      "assist": {
+        "id": 1361,
+        "name": "F. Kadıoğlu"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 16,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 292592,
+        "name": "Hasan Yesilyurt"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Professional foul last man"
+    },
+    {
+      "time": {
+        "elapsed": 21,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 19042,
+        "name": "Florent Hadergjonaj"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 25,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1369,
+        "name": "Miha Zajc"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "assist": {
+        "id": 10497,
+        "name": "Lincoln"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 50067,
+        "name": "Haris Hajradinović"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1361,
+        "name": "Ferdi Kadıoğlu"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 3
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "assist": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 19334,
+        "name": "B. Celina"
+      },
+      "assist": {
+        "id": 115591,
+        "name": "T. Gemicibaşı"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 3407,
+        "name": "Stéphane Bahoken"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "assist": {
+        "id": 18881,
+        "name": "J. King"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 3407,
+        "name": "S. Bahoken"
+      },
+      "assist": {
+        "id": 25269,
+        "name": "A. Engin"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "assist": {
+        "id": 291964,
+        "name": "A. Güler"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 10173,
+        "name": "Willian Arão"
+      },
+      "assist": {
+        "id": 41973,
+        "name": "Miguel Crespo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1361,
+        "name": "F. Kadıoğlu"
+      },
+      "assist": {
+        "id": 51045,
+        "name": "D. Rossi"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 21096,
+        "name": "V. Eysseric"
+      },
+      "assist": {
+        "id": 25412,
+        "name": "Y. Mallı"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 8642,
+        "name": "M. Fall"
+      },
+      "assist": {
+        "id": 291987,
+        "name": "B. Kalkan"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "assist": {
+        "id": 71,
+        "name": "Luan Peres"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 18881,
+        "name": "J. King"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 50235,
+        "name": "A. Kara"
+      },
+      "assist": {
+        "id": 376039,
+        "name": "Y. Özcan"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 291964,
+        "name": "A. Güler"
+      },
+      "assist": {
+        "id": 41973,
+        "name": "Miguel Crespo"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 291964,
+        "name": "A. Güler"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

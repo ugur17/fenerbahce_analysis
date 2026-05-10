@@ -1,0 +1,564 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "884364"
+  },
+  "errors": [],
+  "results": 25,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 13,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 62490,
+        "name": "Samet Akaydın"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Handball"
+    },
+    {
+      "time": {
+        "elapsed": 18,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "Enner Valencia"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 18,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 445,
+        "name": "Younès Belhanda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 20,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 38,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 1186,
+        "name": "Babajide David Akintola"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 41,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 4
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 10173,
+        "name": "Willian Arão"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 1186,
+        "name": "D. Akintola"
+      },
+      "assist": {
+        "id": 1921,
+        "name": "Y. Sarı"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 47,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1369,
+        "name": "M. Zajc"
+      },
+      "assist": {
+        "id": 10497,
+        "name": "Lincoln"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 49,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1369,
+        "name": "Miha Zajc"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 28443,
+        "name": "Attila Szalai"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 445,
+        "name": "Y. Belhanda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 10173,
+        "name": "Willian Arão"
+      },
+      "assist": {
+        "id": 214463,
+        "name": "İ. Yüksek"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "assist": {
+        "id": 51045,
+        "name": "D. Rossi"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1369,
+        "name": "M. Zajc"
+      },
+      "assist": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 49854,
+        "name": "G. İnler"
+      },
+      "assist": {
+        "id": 407,
+        "name": "B. Stambouli"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 1223,
+        "name": "A. Dzyuba"
+      },
+      "assist": {
+        "id": 456,
+        "name": "H. Onyekuru"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 456,
+        "name": "Henry Onyekuru"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "assist": {
+        "id": 19133,
+        "name": "E. Alioski"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 1204,
+        "name": "Yaroslav Rakitskiy"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Card upgrade",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 1204,
+        "name": "Yaroslav Rakitskiy"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Violent conduct"
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19133,
+        "name": "E. Alioski"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 1223,
+        "name": "A. Dzyuba"
+      },
+      "assist": {
+        "id": 19249,
+        "name": "B. Assombalonga"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 10497,
+        "name": "Lincoln"
+      },
+      "assist": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+      },
+      "player": {
+        "id": 36889,
+        "name": "J. Svensson"
+      },
+      "assist": {
+        "id": 62011,
+        "name": "B. Yıldız"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1237956"
+  },
+  "errors": [],
+  "results": 23,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 9,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 50074,
+        "name": "Bengali-Fodé Koita"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 12,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 18776,
+        "name": "Ç. Söyüncü"
+      },
+      "assist": {
+        "id": 21633,
+        "name": "A. Djiku"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 15,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 213,
+        "name": "Keita Baldé"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 62490,
+        "name": "S. Akaydin"
+      },
+      "assist": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 26,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 62490,
+        "name": "Samet Akaydın"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Goal confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 43,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 8532,
+        "name": "Charis Charisis"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 52,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47422,
+        "name": "Youssef En-Nesyri"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 48653,
+        "name": "Đorđe Nikolić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 26741,
+        "name": "Achilleas Poungouras"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 103550,
+        "name": "A. Turgunboev"
+      },
+      "assist": {
+        "id": 436324,
+        "name": "E. Başyiğit"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 213,
+        "name": "K. Baldé"
+      },
+      "assist": {
+        "id": 87818,
+        "name": "Q. Menig"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+      },
+      "assist": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "assist": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 44612,
+        "name": "Garry Rodrigues"
+      },
+      "assist": {
+        "id": 50204,
+        "name": "E. Başsan"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 26741,
+        "name": "A. Poungouras"
+      },
+      "assist": {
+        "id": 40722,
+        "name": "J. Biegański"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 48091,
+        "name": "Noah Sonko Sundberg"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 74,
+        "name": "S. Amrabat"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 62490,
+        "name": "Samet Akaydın"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 74,
+        "name": "S. Amrabat"
+      },
+      "assist": {
+        "id": 162004,
+        "name": "B. Elmaz"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 21633,
+        "name": "A. Djiku"
+      },
+      "assist": {
+        "id": 829,
+        "name": "Rodrigo Becão"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 1002,
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+      },
+      "player": {
+        "id": 21101,
+        "name": "S. Moutoussamy"
+      },
+      "assist": {
+        "id": 499052,
+        "name": "Y. Cin"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 22173,
+        "name": "A. Saint-Maximin"
+      },
+      "assist": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

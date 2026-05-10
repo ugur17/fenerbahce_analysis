@@ -1,0 +1,300 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1074672"
+  },
+  "errors": [],
+  "results": 13,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 6,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 3
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 48590,
+        "name": "Julien Ngoy"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 376039,
+        "name": "Y. Özcan"
+      },
+      "assist": {
+        "id": 62107,
+        "name": "D. Aksu"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 2109,
+        "name": "S. Bastien"
+      },
+      "assist": {
+        "id": 22265,
+        "name": "Nuno da Costa"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "assist": {
+        "id": 1756,
+        "name": "R. Kent"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 2927,
+        "name": "M. Batshuayi"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 272721,
+        "name": "J. Oosterwolde"
+      },
+      "assist": {
+        "id": 1719,
+        "name": "M. Müldür"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 50067,
+        "name": "H. Hajradinović"
+      },
+      "assist": {
+        "id": 21386,
+        "name": "I. Gomis"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "assist": {
+        "id": 1369,
+        "name": "M. Zajc"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 2772,
+        "name": "Kenneth Omeruo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Handball"
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 49469,
+        "name": "M. Ben Ouanes"
+      },
+      "assist": {
+        "id": 144693,
+        "name": "E. Çetinkaya"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+      },
+      "player": {
+        "id": 1343,
+        "name": "Sadık Çiftpınar"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "884374"
+  },
+  "errors": [],
+  "results": 16,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 22,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 35533,
+        "name": "Enner Valencia"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Violent conduct"
+    },
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 61986,
+        "name": "Adil Demirbağ"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 31,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 30524,
+        "name": "M. Lemos"
+      },
+      "assist": {
+        "id": 25053,
+        "name": "S. Dursun"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47446,
+        "name": "E. Mor"
+      },
+      "assist": {
+        "id": 49857,
+        "name": "İ. Kahveci"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 10497,
+        "name": "Lincoln"
+      },
+      "assist": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 61986,
+        "name": "Adil Demirbağ"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 61986,
+        "name": "Adil Demirbağ"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 76866,
+        "name": "A. Rahmanović"
+      },
+      "assist": {
+        "id": 50063,
+        "name": "U. Yazğılı"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 14296,
+        "name": "R. Murić"
+      },
+      "assist": {
+        "id": 79896,
+        "name": "E. Çekiçi"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 50100,
+        "name": "M. Demir"
+      },
+      "assist": {
+        "id": 39137,
+        "name": "Z. Bytyqi"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 51045,
+        "name": "D. Rossi"
+      },
+      "assist": {
+        "id": 30562,
+        "name": "João Pedro"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 1369,
+        "name": "M. Zajc"
+      },
+      "assist": {
+        "id": 50097,
+        "name": "M. Yandaş"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 2830,
+        "name": "Francisco Calvo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 62915,
+        "name": "Soner Dikmen"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 50100,
+        "name": "M. Demir"
+      },
+      "assist": {
+        "id": 44877,
+        "name": "U. Ikpeazu"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 607,
+        "name": "Konyaspor",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+      },
+      "player": {
+        "id": 39137,
+        "name": "Z. Bytyqi"
+      },
+      "assist": {
+        "id": 50141,
+        "name": "C. Karayel"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    }
+  ]
+}

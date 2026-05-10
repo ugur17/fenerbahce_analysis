@@ -1,0 +1,454 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1237858"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": -5,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 50244,
+        "name": "Kubilay Kanatsızkuş"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": -5,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 905,
+        "name": "Fred"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 326102,
+        "name": "Rômulo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 3
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 7
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+      },
+      "assist": {
+        "id": 40403,
+        "name": "S. Szymański"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 50244,
+        "name": "K. Kanatsızkuş"
+      },
+      "assist": {
+        "id": 180916,
+        "name": "Juan"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 107332,
+        "name": "Djalma Silva"
+      },
+      "assist": {
+        "id": 87633,
+        "name": "M. Bokélé"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 7213,
+        "name": "D. Erdoğan"
+      },
+      "assist": {
+        "id": 49913,
+        "name": "A. Ildız"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 174609,
+        "name": "I. Solet"
+      },
+      "assist": {
+        "id": 109691,
+        "name": "D. Tijanič"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 30772,
+        "name": "K. Günter"
+      },
+      "assist": {
+        "id": 109691,
+        "name": "D. Tijanič"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 22173,
+        "name": "Allan Saint-Maximin"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 22173,
+        "name": "A. Saint-Maximin"
+      },
+      "assist": {
+        "id": 1361,
+        "name": "F. Kadıoğlu"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 19588,
+        "name": "B. Osayi-Samuel"
+      },
+      "assist": {
+        "id": 1719,
+        "name": "M. Müldür"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 87633,
+        "name": "Malcom Bokele"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "Edin Džeko"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 554,
+        "name": "D. Tadić"
+      },
+      "assist": {
+        "id": 31054,
+        "name": "R. Krunić"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+      },
+      "player": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+      },
+      "assist": {
+        "id": 18768,
+        "name": "C. Tosun"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 30772,
+        "name": "Koray Günter"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 1953,
+        "name": "L. Nielsen"
+      },
+      "assist": {
+        "id": 301272,
+        "name": "T. Altıkardeş"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+      },
+      "player": {
+        "id": 326102,
+        "name": "Rômulo"
+      },
+      "assist": {
+        "id": 180916,
+        "name": "Juan"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}
