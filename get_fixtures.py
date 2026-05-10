@@ -4,17 +4,26 @@
 # Author: Ceyhun Ugur
 
 import json
+import os
 import time
 from pathlib import Path
 
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_KEY = os.getenv("API_FOOTBALL_KEY")
+
+if not API_KEY:
+    raise ValueError("Missing API_FOOTBALL_KEY environment variable")
 
 BASE_URL = "https://v3.football.api-sports.io"
 ENDPOINT = "/fixtures"
 URL = BASE_URL + ENDPOINT
 
 HEADERS = {
-    "x-apisports-key": "b35e7620a9492b3b7bcfb0049d6f4b1b"
+    "x-apisports-key": API_KEY
 }
 
 TEAM_ID = 611
